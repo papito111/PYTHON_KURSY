@@ -1,0 +1,31 @@
+﻿Book_ID,Title,Author,Genre,Sales_Amount,Customer_Rating
+B001,The Great Gatsby,F. Scott Fitzgerald,Fiction,1500,4.5
+B002,To Kill a Mockingbird,Harper Lee,Fiction,1200,4.8
+B003,1984,George Orwell,Dystopian,1000,4.2
+B004,The Hobbit,J.R.R. Tolkien,Fantasy,1800,4.6
+B005,The Catcher in the Rye,J.D. Salinger,Fiction,900,4.0
+B006,Brave New World,Aldous Huxley,Dystopian,1300,4.3
+B007,The Lord of the Rings,J.R.R. Tolkien,Fantasy,2200,4.9
+B008,The Great Expectations,Charles Dickens,Classic,950,4.1
+B009,The Hunger Games,Suzanne Collins,Dystopian,1600,4.7
+B010,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,2500,4.8
+B011,The Da Vinci Code,Dan Brown,Mystery,1100,3.9
+B012,The Shining,Stephen King,Horror,1400,4.5
+B013,The Old Man and the Sea,Ernest Hemingway,Classic,800,4.0
+B014,The Alchemist,Paulo Coelho,Fiction,2000,4.6
+B015,The Chronicles of Narnia,C.S. Lewis,Fantasy,1900,4.7
+B016,Pride and Prejudice,Jane Austen,Classic,1200,4.2
+B017,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,1400,4.4
+B018,One Hundred Years of Solitude,Gabriel Garcia Marquez,Magic Realism,1700,4.8
+B019,The Handmaid's Tale,Margaret Atwood,Dystopian,1100,4.1
+B020,The Road,Cormac McCarthy,Post-Apocalyptic,1000,4.0
+B021,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction,1300,4.7
+B022,Fahrenheit 451,Ray Bradbury,Dystopian,900,3.8
+B023,The Help,Kathryn Stockett,Fiction,950,4.2
+B024,The Silent Patient,Alex Michaelides,Thriller,1800,4.5
+B025,The Kite Runner,Khaled Hosseini,Fiction,1200,4.6
+B026,The Outsider,Stephen King,Thriller,1300,4.3
+B027,The Secret Garden,Frances Hodgson Burnett,Children's Literature,850,4.0
+B028,The Color Purple,Alice Walker,Fiction,1000,4.1
+B029,The Catch-22,Joseph Heller,Classic,1100,4.4
+B030,The Grapes of Wrath,John Steinbeck,Classic,1600,4.6
