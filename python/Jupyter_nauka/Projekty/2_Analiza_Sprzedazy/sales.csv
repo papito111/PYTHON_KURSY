@@ -1,0 +1,37 @@
+﻿Sklep,Produkt,Miesiąc,SumaSprzedaży,IloscTransakcji,Przychod,Promocja
+RTV_Euro_AGD,Telewizor,Luty,140,32,700,Nie
+RTV_Euro_AGD,Laptop,Marzec,90,28,450,Tak
+RTV_Euro_AGD,Smartfon,Wrzesień,170,45,850,Nie
+Media_Markt,Telewizor,Listopad,150,38,750,Tak
+Media_Markt,Laptop,Czerwiec,95,30,475,Nie
+Media_Markt,Smartfon,Sierpień,180,48,900,Tak
+Media_Expert,Telewizor,Styczeń,130,33,650,Nie
+Media_Expert,Laptop, Maj,85,25,425,Tak
+Media_Expert,Smartfon,Czerwiec,160,42,800,Nie
+RTV_Euro_AGD,Telewizor,Marzec,160,35,800,Tak
+RTV_Euro_AGD,Laptop, Listopad,100,30,500,Nie
+RTV_Euro_AGD,Smartfon,Grudzień,190,50,950,Tak
+Media_Markt,Telewizor,Październik,170,40,850,Nie
+Media_Markt,Laptop,Luty,105,32,525,Tak
+Media_Markt,Smartfon,Wrzesień,200,55,1000,Nie
+Media_Expert,Telewizor,Styczeń,130,33,650,Tak
+Media_Expert,Laptop,Wrzesień,85,25,425,Nie
+Media_Expert,Smartfon, Maj,160,42,800,Tak
+RTV_Euro_AGD,Telewizor,Kwiecień,150,35,750,Tak
+RTV_Euro_AGD,Laptop,Grudzień,95,30,475,Nie
+RTV_Euro_AGD,Smartfon,Listopad,180,48,900,Tak
+Media_Markt,Telewizor, Czerwiec,160,38,800,Nie
+Media_Markt,Laptop, Wrzesień,105,32,525,Tak
+Media_Markt,Smartfon,Styczeń,210,55,1050,Nie
+Media_Expert,Telewizor,Luty,140,30,700,Tak
+Media_Expert,Laptop, Maj,92,28,460,Nie
+Media_Expert,Smartfon,Grudzień,175,47,875,Tak
+RTV_Euro_AGD,Telewizor,Marzec,150,35,750,Tak
+RTV_Euro_AGD,Laptop,Styczeń,95,30,475,Nie
+RTV_Euro_AGD,Smartfon, Maj,180,48,900,Tak
+Media_Markt,Telewizor,Październik,160,38,800,Nie
+Media_Markt,Laptop,Kwiecień,105,32,525,Tak
+Media_Markt,Smartfon, Grudzień,210,55,1050,Nie
+Media_Expert,Telewizor,Sierpień,140,30,700,Tak
+Media_Expert,Laptop,Październik,92,28,460,Nie
+Media_Expert,Smartfon,Luty,175,47,875,Tak
