@@ -55,10 +55,10 @@ on m.movie_id = f.movie_id;
 select 
     m.movie_id, 
     m.title, 
-    f.budget, 
-    f.revenue, 
-    m.movie_id, 
-    m.title, 
+    #f.budget, 
+    #f.revenue, 
+    
+   # m.title, 
  
     case
         when f.currency = 'INR' and f.unit = 'Billions' then round(f.revenue * 0.014 * 1000, 1) 
@@ -87,7 +87,8 @@ select
 	
 from 
     movies m
-    left join financials f on m.movie_id = f.movie_id;
+    left join financials f 
+    on m.movie_id = f.movie_id;
 
 
 
